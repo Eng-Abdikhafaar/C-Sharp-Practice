@@ -23,6 +23,8 @@ Auto Hide helps hide tool windows when you are not using them. This gives you mo
 
 The **pin icon** controls Auto Hide. When the window is unpinned, it hides automatically. When it is pinned, it stays open.
 
+---
+
 ### Example 2: Floating Windows
 
 ![Example2](Screenshot-2026-09-21-055545.png)
@@ -37,6 +39,7 @@ In this example, the windows are not pinned to the side of the screen, so they a
 
 Floating windows are useful when you want more control over the arrangement of your workspace and prefer a more personalized layout while coding.
 
+---
 
 ### Example 3: Some of Form Controls
 
@@ -45,6 +48,8 @@ Floating windows are useful when you want more control over the arrangement of y
 This screenshot shows some important **Windows Forms controls** used in C# programming.
 
 In the form, you can see different controls such as a **TextBox**, **Button**, and other visual elements that help the user interact with the application. These controls are used to collect input, display information, and trigger actions when the user clicks or types.
+
+---
 
 ### Example 4: Event (MessageBox.Show)
 
@@ -70,6 +75,7 @@ Before clicking the button, the form is waiting for the user to interact with it
 Events are very important in C# because they allow the program to respond to user actions such as clicking a button, typing text, or selecting an item. The `MessageBox.Show()` method is a simple way to display information or notify the user about the result of an action.
 
 ---
+
 #### I used this code to make The Event
 
 ![alt text](Screenshot-2026-09-21-145233.png)
