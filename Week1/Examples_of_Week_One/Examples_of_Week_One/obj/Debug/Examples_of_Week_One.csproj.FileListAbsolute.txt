@@ -1,0 +1,11 @@
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Practice\Examples_of_Week_One\Examples_of_Week_One\bin\Debug\Examples_of_Week_One.exe.config
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Practice\Examples_of_Week_One\Examples_of_Week_One\bin\Debug\Examples_of_Week_One.exe
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Practice\Examples_of_Week_One\Examples_of_Week_One\bin\Debug\Examples_of_Week_One.pdb
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Practice\Examples_of_Week_One\Examples_of_Week_One\obj\Debug\Examples_of_Week_One.csproj.AssemblyReference.cache
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Practice\Examples_of_Week_One\Examples_of_Week_One\obj\Debug\Examples_of_Week_One.Form1.resources
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Practice\Examples_of_Week_One\Examples_of_Week_One\obj\Debug\Examples_of_Week_One.Properties.Resources.resources
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Practice\Examples_of_Week_One\Examples_of_Week_One\obj\Debug\Examples_of_Week_One.csproj.GenerateResource.cache
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Practice\Examples_of_Week_One\Examples_of_Week_One\obj\Debug\Examples_of_Week_One.csproj.CoreCompileInputs.cache
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Practice\Examples_of_Week_One\Examples_of_Week_One\obj\Debug\Examples_of_Week_One.exe
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Practice\Examples_of_Week_One\Examples_of_Week_One\obj\Debug\Examples_of_Week_One.pdb
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Practice\Examples_of_Week_One\Examples_of_Week_One\obj\Debug\Examples_of_Week_One.exe.config
