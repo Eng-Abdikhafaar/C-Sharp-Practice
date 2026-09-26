@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\jamhuuriye university\\5 semester Five\\C# Programmig I\\Practice\\Practice\\Examples_of_Week_TWO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{556C20F4-431A-469D-85F6-44D6DF564F81}|Examp_of_Week_TWO\\Examp_of_Week_TWO.csproj|d:\\jamhuuriye university\\5 semester five\\c# programmig i\\practice\\practice\\examples_of_week_two\\examp_of_week_two\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556C20F4-431A-469D-85F6-44D6DF564F81}|Examp_of_Week_TWO\\Examp_of_Week_TWO.csproj|solutionrelative:examp_of_week_two\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\jamhuuriye university\\5 semester Five\\C# Programmig I\\Practice\\Practice\\Examples_of_Week_TWO\\Examp_of_Week_TWO\\Form1.cs",
+              "RelativeDocumentMoniker": "Examp_of_Week_TWO\\Form1.cs",
+              "ToolTip": "D:\\jamhuuriye university\\5 semester Five\\C# Programmig I\\Practice\\Practice\\Examples_of_Week_TWO\\Examp_of_Week_TWO\\Form1.cs [Design]",
+              "RelativeToolTip": "Examp_of_Week_TWO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T10:28:56.524Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
