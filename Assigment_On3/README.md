@@ -3,12 +3,10 @@
 ![Screenshot1](Screenshot-2026-10-02-163813.png)
 
 > ### Sawirkan waxaan ku practice gareeyay
-> - **Label Control**
-> - **TextBox Control**
-> - **Button Control**
 > - **Processing Data** (variables, const, parsing iyo try/catch)
 
-Sawirkan waa Form yar oo xisaabiya biilka cuntada. User-ku wuxuu galinayaa magaca iyo qiimaha laba cunto, iyo boqolkiiba intee tips ah. Marka uu riixo **Calculate Price**, program-ku wuxuu soo bandhigayaa sales tax, tips, total iyo net amount.
+Sawirkan waa Form yar oo xisaabiya biilka cuntada. User-ku wuxuu galinayaa magaca iyo qiimaha laba cunto, iyo boqolkiiba intee tips ah. Marka uu riixo **Calculate Price**, program-ku wuxuu soo bandhigayaa sales tax, tips, total iyo net_amount.
+
 
 # Qeybta 1aad [Controls-ka Form-ka]
 
@@ -101,15 +99,6 @@ Waa kan sida code-ka u shaqeeyo:
 
 **Try/Catch.** Haddii user-ku qoro xarfo ama uu banaan ka tago textbox-ka, program-ku ma burburo. Halkii, wuxuu soo bandhigayaa MessageBox "Enter Valid Values".
 
-> **TUSAALE**
->
-> Food1 = 10, Food2 = 20, Tips = 10
->
-> Amount = 30, Sales Tax = $1.50, Tips = $3.00, Total = $34.50, Net = $30.00
-
-> **Fiiro gaar ah**
-> - `tipsRate` waxay ku jirtaa **dibadda** try-ga, markaa haddii Tips banaan yahay ama decimal yahay (tusaale 7.5), program-ku wuu burburayaa, MessageBox-na ma soo baxayo. Waa fiican tahay in la geliyo gudaha try-ga, ama la beddelo `double.Parse`.
-> - `Food1` iyo `Food2` waa la akhriyay balse xisaabta kuma jiraan, waxaa la isticmaali karaa haddii biil dhammeystiran la daabaco.
 
 # Qeybta 3aad [Button-ka Clear]
 
