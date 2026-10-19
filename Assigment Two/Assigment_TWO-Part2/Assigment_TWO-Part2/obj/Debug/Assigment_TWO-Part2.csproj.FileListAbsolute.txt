@@ -1,0 +1,11 @@
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Assigment_TWO-Part2\Assigment_TWO-Part2\bin\Debug\Assigment_TWO-Part2.exe.config
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Assigment_TWO-Part2\Assigment_TWO-Part2\bin\Debug\Assigment_TWO-Part2.exe
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Assigment_TWO-Part2\Assigment_TWO-Part2\bin\Debug\Assigment_TWO-Part2.pdb
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Assigment_TWO-Part2\Assigment_TWO-Part2\obj\Debug\Assigment_TWO-Part2.csproj.AssemblyReference.cache
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Assigment_TWO-Part2\Assigment_TWO-Part2\obj\Debug\Assigment_TWO_Part2.Form1.resources
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Assigment_TWO-Part2\Assigment_TWO-Part2\obj\Debug\Assigment_TWO_Part2.Properties.Resources.resources
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Assigment_TWO-Part2\Assigment_TWO-Part2\obj\Debug\Assigment_TWO-Part2.csproj.GenerateResource.cache
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Assigment_TWO-Part2\Assigment_TWO-Part2\obj\Debug\Assigment_TWO-Part2.csproj.CoreCompileInputs.cache
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Assigment_TWO-Part2\Assigment_TWO-Part2\obj\Debug\Assigment_TWO-Part2.exe
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Assigment_TWO-Part2\Assigment_TWO-Part2\obj\Debug\Assigment_TWO-Part2.pdb
+D:\jamhuuriye university\5 semester Five\C# Programmig I\Practice\Assigment_TWO-Part2\Assigment_TWO-Part2\obj\Debug\Assigment_TWO-Part2.exe.config
